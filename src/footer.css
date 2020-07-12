@@ -1,0 +1,42 @@
+.about {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    width: 100%;
+    height: auto;
+    background-color: #2e459c;
+    color: white;
+    text-align: center;
+}
+
+.head {
+    margin-right: 10%;
+
+}
+
+h1 {
+    color: #ffffff;
+    font-family: Serif;
+    padding-bottom: 10px;
+}
+
+.info {
+    font-family: Serif;
+    font-size: 19px;
+}
+a{
+    color: darkred;
+    cursor: pointer;
+}
+p{
+    color: white;
+}

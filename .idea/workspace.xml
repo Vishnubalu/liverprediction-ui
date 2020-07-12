@@ -3,7 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="114da092-6a75-4a9d-ae54-8998c4d37abd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/appbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/appbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/back3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/circularProgressbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uploadfile.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +31,7 @@
       <list>
         <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -30,7 +43,9 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,7 +108,17 @@
       <workItem from="1592470760768" duration="13384000" />
       <workItem from="1592496128618" duration="8151000" />
       <workItem from="1592511046537" duration="622000" />
-      <workItem from="1592583411538" duration="1643000" />
+      <workItem from="1592583411538" duration="3523000" />
+      <workItem from="1592978010657" duration="637000" />
+      <workItem from="1593458317106" duration="180000" />
+      <workItem from="1593508436865" duration="697000" />
+      <workItem from="1593519932477" duration="633000" />
+      <workItem from="1593535295614" duration="3231000" />
+      <workItem from="1593857032117" duration="1377000" />
+      <workItem from="1593887600059" duration="4121000" />
+      <workItem from="1594357340257" duration="1214000" />
+      <workItem from="1594373758646" duration="1080000" />
+      <workItem from="1594466681394" duration="32389000" />
     </task>
     <servers />
   </component>

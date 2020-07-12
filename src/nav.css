@@ -1,0 +1,13 @@
+li {
+    padding: 15px;
+    list-style: none;
+    color: white;
+
+}
+a:hover {
+  background-color: #405bfb;
+}
+a:link
+{
+    text-decoration: none;
+}

@@ -46,7 +46,7 @@ function Upload() {
     async function PostCSVtoAPI() {
         setOpen('open');
         // const csrf = this.getCookie('csrftoken');
-        const response = await fetch('http://127.0.0.1:8000/upload/', {
+        const response = await fetch('http://192.168.43.3:8000/upload/', {
             method: "POST",
             //headers: {'Content-Type': 'multipart/form-data'},
             body: JSON.stringify({
@@ -68,7 +68,7 @@ function Upload() {
 
     async function downloadResult() {
 
-        fetch('http://127.0.0.1:8000/result/')
+        fetch('http://192.168.43.3:8000/result/')
             .then(response => {
                 response.blob().then(blob => {
                     let url = window.URL.createObjectURL(blob);
